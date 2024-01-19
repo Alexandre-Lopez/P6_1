@@ -1,1 +1,1 @@
-Comenzamos con los ejercicios de Git
+Ejercicio 6.1
